@@ -1,0 +1,17 @@
+# Node modules (dependencies)
+node_modules/
+
+# Compiled JavaScript output
+js/
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
