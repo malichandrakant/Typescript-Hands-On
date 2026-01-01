@@ -12,12 +12,8 @@ setup, and understanding of the TypeScript → JavaScript workflow.
 
 ## 🛠️ Technologies Used
 - TypeScript
-- Node.js
-- Visual Studio Code
-- Git & GitHub
-
----
-
+- -JavaScript
+- 
 ## 📂 Project Structure
 typescript-hello-world/
 │
@@ -68,3 +64,4 @@ GitHub project structure
 👤 Author
 
 Chandrakant Mali
+
